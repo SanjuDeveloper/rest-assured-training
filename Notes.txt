@@ -3,3 +3,10 @@
    Fir hm maven repo. se dependancy add krte h POM.XML m : https://mvnrepository.com/artifact/io.rest-assured/rest-assured/5.3.1
    Fir hm testNG ki dependancy add krte h  : https://mvnrepository.com/artifact/org.testng/testng/7.8.0
    Fir HamCrest Dependancy add krte h : https://mvnrepository.com/artifact/org.hamcrest/hamcrest
+
+
+Hi Rahul.
+
+I am getting exception while trying to import the rest-assured in my Basics class. Please find the screenshot here : https://prnt.sc/-V4bsGgxuo8W
+
+Please help me as soon as possible.
